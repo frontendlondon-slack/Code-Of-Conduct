@@ -48,5 +48,8 @@ Failing to follow the community guidelines as described in this document carries
 
 * Ian Feather - @ianfeather
 * Adam Onishi - @onishiweb
+* Gareth Trufitt - @gtrufitt
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+
+*Job adverts that don't specify the company or require contacting an external recuriter to apply will be removed*
